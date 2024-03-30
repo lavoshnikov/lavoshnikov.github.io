@@ -7,7 +7,7 @@ categories: misc
 
 This is my first own post using Jekyll, wohoo. 
 
-I will first test it locally, running "bundle exec jekyll serve".
+I will first test it locally, running bundle exec jekyll serve.
 
 {% highlight sql %}
 SELECT *
