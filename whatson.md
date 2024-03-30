@@ -1,6 +1,6 @@
 layout: page
 title: "What's on"
-permalink: /info/today
+permalink: /info
 
 # What's on today  my friends? 
 
