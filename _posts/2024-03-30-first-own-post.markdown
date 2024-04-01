@@ -1,16 +1,18 @@
 ---
 layout: post
-title:  "My first own Post"
-date:   2024-03-30 15:08:57 +1100
+title:  "Welcome to sequel.blog !"
+date:   2024-03-31 23:00:00 +1100
 categories: misc
 ---
 
-This is my first own post using Jekyll, wohoo. 
+Welcome to the very first post of this humble blog.
+Together, we will deep dive into a wonderful world of SQL.
 
-I will first test it locally, running bundle exec jekyll serve.
+P.S. Yes, I used to hate calling SQL 'sequel', but in the end it was a nice available domain name.
 
 {% highlight sql %}
-SELECT *
-FROM ships 
-WHERE year > 2000;
+-- To give you some flavour:
+SELECT 'Hello World!'
+FROM yet_another_blog
+WHERE year = 2024;
 {% endhighlight %}
