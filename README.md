@@ -1,1 +1,0 @@
-# lavoshnikov.github.io
