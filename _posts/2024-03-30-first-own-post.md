@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Welcome to sequel.blog"
-date:   2024-03-31 00:00:00 +1100
+date:   2024-03-31 12:00:00 +1100
 categories: misc
 ---
 
 Welcome to the very first post of this humble blog.
-Together, we will deep dive into a wonderful world of SQL.
+Together, we will deep dive into the wonderful world of SQL.
 
 P.S. Yes, I used to hate calling SQL 'sequel', but in the end it was a nice available domain name.
 

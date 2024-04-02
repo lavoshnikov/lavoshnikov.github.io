@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting started"
-date:   2024-04-02 00:00:00 +1100
+date:   2024-04-02 12:00:00 +1100
 categories: tools
 ---
 
