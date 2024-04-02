@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to sequel.blog"
-date:   2024-03-31 00:00:00 +0000
+date:   2024-03-30 00:00:00 +0000
 categories: misc
 ---
 
