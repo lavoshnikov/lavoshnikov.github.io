@@ -13,8 +13,7 @@ Imagine we have a table like this:
 | 7 | NULL |
 | 8 | NULL |
 
-<expand> lol
-</expand>
+
 
 <details>
 	<summary>Click to expand</summary>
