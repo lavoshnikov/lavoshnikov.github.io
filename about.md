@@ -11,7 +11,7 @@ I have been working with data for almost ten years, and if I can point out one s
 
 So please make yourself comfortable at my blog!
 
-Warm regards, 
+Warm regards, \
 Dmitrii
 
 
