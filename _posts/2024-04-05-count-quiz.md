@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Count Quiz"
+title:  "Count quiz"
 date:   2024-04-05 00:00:00 +0000
 categories: sql
 ---
