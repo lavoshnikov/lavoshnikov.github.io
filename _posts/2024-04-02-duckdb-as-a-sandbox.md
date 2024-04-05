@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting started"
+title:  "DuckDB as a sandbox"
 date:   2024-04-02 00:00:00 +0000
 categories: tools
 ---
